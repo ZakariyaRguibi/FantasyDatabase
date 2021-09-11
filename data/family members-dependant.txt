@@ -8,4 +8,4 @@ brother-in-law
 mother-in-law
 father-in-law
 partner
-spouce
+spouse

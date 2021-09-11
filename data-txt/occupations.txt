@@ -1,12 +1,15 @@
 Abbess
 Abbot
-Abbot/Abbess
+Abbot
+Abbess
 Abecedarian
 Abjurer
 Acater
 Accomptant
 Accoucheur
-Accoucheur/Obstetrician/Midwife
+Accoucheur
+Obstetrician
+Midwife
 Accountant
 Accoutrement Maker
 Ackerman(Acreman)
@@ -216,7 +219,8 @@ Ditcher
 Diver
 Diviner
 Doctor
-Doctor/Physician
+Doctor
+Physician
 Dog Trainer
 Domestic Servant
 Drakologist
@@ -338,7 +342,8 @@ Herbalist
 Herder
 Hermit
 Hetheleder
-High Priest/Pope
+High Priest
+Pope
 Highwayman
 Highwaymen
 Historian
@@ -610,7 +615,8 @@ Sawyer
 Scabbard Maker
 Scavenger
 Scholar
-Scholar/Researcher
+Scholar
+Researcher
 Scout
 Scribe
 Scribes
@@ -690,7 +696,8 @@ Street Sweeper
 Student
 Summoner
 Surgeon
-Surgeon/Chirurgeon
+Surgeon
+Chirurgeon
 Surveyor
 Swineherd
 Swordsman

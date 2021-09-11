@@ -2,6 +2,10 @@
 
 a fantasy database for a TBD character generator
 
+## to-do:
+
+- categorize occupations by gender (e.g. king/Queen etc. )
+
 ## credit:
 
 first name, last names, middle names from https://github.com/dominictarr/random-name
